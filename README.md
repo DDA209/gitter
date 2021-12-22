@@ -8,7 +8,7 @@ Execut `GITTER /?` as a command and read instructions
 ### Instructions 
 *possibly not up to date here, so refer to inapp documentation*
 
-To acceed to the  `GITTER /?`, `GITTER /help`, `GITTER --help` ou `GITTER -h`
+To acceed to the help `GITTER /?`, `GITTER /help`, `GITTER --help` ou `GITTER -h`
 
 1) Execute the following command :
 - `GITTER`
